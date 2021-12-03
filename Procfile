@@ -1,1 +1,1 @@
-worker : npm start 
+worker : npm i imgbb-uploader && npm i fs-extra && npm start 
